@@ -10,6 +10,7 @@ The structure of the course will be a 2-hour Python class and 1-hour Python clin
 
 Important note: Attendance of this course is obligatory if you want to attend the Computational Text Analysis Class offered in Trinity 2023 (You can get an exemption if you show previous attendance of a Python class through a transcript or similar document). These two classes can be viewed as a sequence.
 
-More details to follow! 
+Sign up for short research presentations here: https://docs.google.com/spreadsheets/d/1CoieKKfGmDJyChL6s49BujTOxmYsEZ5ugC92HA-zZUk/edit?usp=sharing
+
 
 
