@@ -12,5 +12,23 @@ Important note: Attendance of this course is obligatory if you want to attend th
 
 Sign up for short research presentations here: https://docs.google.com/spreadsheets/d/1CoieKKfGmDJyChL6s49BujTOxmYsEZ5ugC92HA-zZUk/edit?usp=sharing
 
+Quick Access to our Python Sheets:
+
+- Week 1: Introduction to Python  [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session1/ClassCode/Session_1_Python23.ipynb)
+
+What did we cover:
+
+1. GitHub
+2. Differences between Google Colab and Anaconda (Jupyter Notebooks)
+3. Python Interactive Shell
+4. Assiginging Variables and Values
+5. Understanding Different Objects in Python
+6. Mathematical Operations
+7. Boolean Operations
+8. Transformation of Objects
+9. Understanding Python Strings
+10. Combining Objects
+11. Intro to Data Structures (more in week 2)
+
 
 
