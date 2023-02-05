@@ -22,7 +22,7 @@ The course material is publicly available. For each class you will find:
 
 Sign up for short research presentations here: https://docs.google.com/spreadsheets/d/1CoieKKfGmDJyChL6s49BujTOxmYsEZ5ugC92HA-zZUk/edit?usp=sharing
 
-The class has a Slack Channel, students have been sent a link over email! Please email me if you would like to join (ashrakat.elshehawy@politics.ox.ac.).
+The class has a Slack Channel, students have been sent a link over email! Please email me if you would like to join (ashrakat.elshehawy@politics.ox.ac).
 
 ## Quick Access to our Python Sheets:
 
