@@ -1,8 +1,7 @@
 # Python for Social Data Science
 Python for Social Data Science (Oxford 2023)
 
-Social Data Science with Python
-Course provider: Ashrakat Elshehawy
+**Course provider: Ashrakat Elshehawy**
  
 DPIR (open to other Oxford department's as well) postgraduate students are encouraged to attend a 6-week course to learn the programming language Python in Hillary Term 2023. Python programming knowledge is becoming increasingly essential for Social Scientists working on applications for computational social science research, such as machine learning and computational text analysis. 
 
@@ -12,11 +11,11 @@ Important note: Attendance of this course is obligatory if you want to attend th
 
 Sign up for short research presentations here: https://docs.google.com/spreadsheets/d/1CoieKKfGmDJyChL6s49BujTOxmYsEZ5ugC92HA-zZUk/edit?usp=sharing
 
-Quick Access to our Python Sheets:
+## Quick Access to our Python Sheets:
 
-- Week 1: Introduction to Python  [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session1/ClassCode/Session_1_Python23.ipynb)
+- **Week 1: Introduction to Python**  [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session1/ClassCode/Session_1_Python23.ipynb)
 
-What did we cover:
+_What did we cover:_
 
 1. GitHub
 2. Differences between Google Colab and Anaconda (Jupyter Notebooks)
