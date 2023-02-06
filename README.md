@@ -43,4 +43,7 @@ _What did we cover:_
 11. Intro to Data Structures (more in week 2)
 
 
+- **Week 2: Data Structures, Functions, and Files**  
+
+
 
