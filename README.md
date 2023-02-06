@@ -52,6 +52,7 @@ _What did we cover:_
 2. Loops
 3. If-Else Statements
 4. List Comprehension
-5. Intro to Nested Data Structures and Pandas
+5. Appending Data into Lists
+6. Intro to Nested Data Structures and Pandas
 
 
