@@ -45,10 +45,10 @@ _What did we cover:_
 - **Week 2: Data Structures, Functions, and Files**  
 
 1. Data Structures:
-⋅⋅* Lists
-⋅⋅* Tuples
-⋅⋅* Dictionaries
-⋅⋅* Sets 
+- Lists
+- Tuples
+- Dictionaries
+- Sets 
 2. Loops
 3. If-Else Statements
 4. List Comprehension
