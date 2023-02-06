@@ -40,10 +40,18 @@ _What did we cover:_
 8. Transformation of Objects
 9. Understanding Python Strings
 10. Combining Objects
-11. Intro to Data Structures (more in week 2)
 
 
 - **Week 2: Data Structures, Functions, and Files**  
 
+1. Data Structures:
+a. Lists
+b. Tuples
+c. Dictionaries
+d. Sets 
+2. Loops
+3. If-Else Statements
+4. List Comprehension
+5. Intro to Nested Data Structures and Pandas
 
 
