@@ -44,7 +44,7 @@ _What did we cover:_
 10. Combining Objects
 
 
-- **Week 2: Data Structures, Functions, and Files**  
+- **Week 2: Data Structures, Functions, and Files** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session2/ClassCode/Session_2_Python23_Solutions.ipynb)
 
 1. Data Structures:
 - Lists
