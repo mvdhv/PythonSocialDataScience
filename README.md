@@ -20,9 +20,11 @@ The course material is publicly available. For each class you will find:
 2. Code used in the Python Session in class + its full solutions
 3. Excercises + their solutions
 
-Sign up for short research presentations here: https://docs.google.com/spreadsheets/d/1CoieKKfGmDJyChL6s49BujTOxmYsEZ5ugC92HA-zZUk/edit?usp=sharing
 
 The class has a Slack Channel, students have been sent a link over email! Please email me if you would like to join (ashrakat.elshehawy@politics.ox.ac).
+
+To sign up for presentations please refer to our slack channel.
+
 
 ## Quick Access to our Python Sheets:
 
