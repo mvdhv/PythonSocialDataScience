@@ -44,7 +44,7 @@ _What did we cover:_
 10. Combining Objects
 
 
-- **Week 2: Data Structures, Functions, and Files**  
+- **Week 2: Data Structures, Functions, and Files** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session2/ClassCode/Session_2_Python23_Solutions.ipynb)
 
 1. Data Structures:
 - Lists
@@ -56,5 +56,5 @@ _What did we cover:_
 4. List Comprehension
 5. Appending Data into Lists
 6. Intro to Nested Data Structures and Pandas
-
-
+<br><br><br>
+_Syallbus references and credits are due to Musashi Harukawa (Postdoc Princeton) - some aspects of this course are inspired by his Intro to Python course at the Department of Politics and International Relations at Oxford in 2020. Here is the course website where Musashi provided his course material: https://muhark.github.io/dpir-intro-python/index.html_
