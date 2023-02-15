@@ -54,16 +54,18 @@ _What did we cover:_
 2. Loops
 3. If-Else Statements
 4. List Comprehension
-5. Appending Data into Lists
-6. Intro to Nested Data Structures and Pandas
+
 
 
 
 - **Week 3: Functions and Files** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session3/ClassCode/Session_3_Python23_Solutions.ipynb)
 
-1. Compound Data Structures
-2. Functions
-3. Pandas I
+1. Appending Data into Lists
+2. Compound Data Structures
+3. Functions
+4. Pandas I
+
+
 
 
 
