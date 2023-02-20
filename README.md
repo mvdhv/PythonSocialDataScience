@@ -28,9 +28,10 @@ To sign up for presentations please refer to our slack channel.
 
 ## Quick Access to our Python Sheets:
 
-- **Week 1: Introduction to Python**  [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session1/ClassCode/Session_1_Python23.ipynb)
-
 _What did we cover:_
+
+
+- **Week 1: Introduction to Python**  [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session1/ClassCode/Session_1_Python23.ipynb)
 
 1. GitHub
 2. Differences between Google Colab and Anaconda (Jupyter Notebooks)
@@ -58,14 +59,14 @@ _What did we cover:_
 
 
 
-- **Week 3: Functions and Files** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session3/ClassCode/Session_3_Python23_Solutions.ipynb)
+- **Week 3: Functions and Pandas I** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session3/ClassCode/Session_3_Python23_Solutions.ipynb)
 
 1. Appending Data into Lists
 2. Compound Data Structures
 3. Functions
 4. Pandas I
 
-
+- **Week 3: Pandas II and Loading Big Data in Python** 
 
 
 
