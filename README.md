@@ -66,7 +66,7 @@ _What did we cover:_
 3. Functions
 4. Pandas I
 
-- **Week 4: Pandas II and Loading Big Data in Python** 
+- **Week 4: Pandas II, Loading Big Data in Python, and Visualization** 
 
 
 
