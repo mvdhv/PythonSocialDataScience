@@ -28,9 +28,10 @@ To sign up for presentations please refer to our slack channel.
 
 ## Quick Access to our Python Sheets:
 
-- **Week 1: Introduction to Python**  [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session1/ClassCode/Session_1_Python23.ipynb)
-
 _What did we cover:_
+
+
+- **Week 1: Introduction to Python**  [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session1/ClassCode/Session_1_Python23.ipynb)
 
 1. GitHub
 2. Differences between Google Colab and Anaconda (Jupyter Notebooks)
@@ -44,7 +45,7 @@ _What did we cover:_
 10. Combining Objects
 
 
-- **Week 2: Data Structures, Functions, and Files** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session2/ClassCode/Session_2_Python23_Solutions.ipynb)
+- **Week 2: Python Data Structures** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session2/ClassCode/Session_2_Python23_Solutions.ipynb)
 
 1. Data Structures:
 - Lists
@@ -54,7 +55,21 @@ _What did we cover:_
 2. Loops
 3. If-Else Statements
 4. List Comprehension
-5. Appending Data into Lists
-6. Intro to Nested Data Structures and Pandas
-<br><br><br>
+
+
+
+
+- **Week 3: Functions and Pandas I** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session3/ClassCode/Session_3_Python23_Solutions.ipynb)
+
+1. Appending Data into Lists
+2. Compound Data Structures
+3. Functions
+4. Pandas I
+
+- **Week 4: Pandas II, Loading Big Data in Python, and Visualization** 
+
+
+
+<br><br><br><br><br>
 _Syallbus references and credits are due to Musashi Harukawa (Postdoc Princeton) - some aspects of this course are inspired by his Intro to Python course at the Department of Politics and International Relations at Oxford in 2020. Here is the course website where Musashi provided his course material: https://muhark.github.io/dpir-intro-python/index.html_
+
