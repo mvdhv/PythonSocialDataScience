@@ -73,6 +73,10 @@ _What did we cover:_
 5. The Power of Counting
 6. Python Visualization
 
+- **Week 5: Scraping from the Web** 
+
+Main focus on BeautifulSoup and data cleaning mechanisms!
+
 
 
 <br><br><br><br><br>
