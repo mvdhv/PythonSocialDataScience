@@ -58,7 +58,6 @@ _What did we cover:_
 
 
 
-
 - **Week 3: Functions and Pandas I** [Link](https://github.com/aelshehawy/PythonSocialDataScience/blob/main/Session3/ClassCode/Session_3_Python23_Solutions.ipynb)
 
 1. Appending Data into Lists
@@ -67,6 +66,12 @@ _What did we cover:_
 4. Pandas I
 
 - **Week 4: Pandas II, Loading Big Data in Python, and Visualization** 
+
+1. Pandas II
+2. Importing Big Data
+4. Exporting Big Data 
+5. The Power of Counting
+6. Python Visualization
 
 
 
