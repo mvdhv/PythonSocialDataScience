@@ -75,10 +75,14 @@ _What did we cover:_
 
 - **Week 5: Scraping from the Web** 
 
-Main focus on BeautifulSoup and data cleaning mechanisms!
+1. Data Retrieval from the Web
+2. HTML 
+3. BeautifulSoup
+4. Messy Data Cleaning Mechanisms
+
 
 
 
 <br><br><br><br><br>
-_Syallbus references and credits are due to Musashi Harukawa (Postdoc Princeton) - some aspects of this course are inspired by his Intro to Python course at the Department of Politics and International Relations at Oxford in 2020. Here is the course website where Musashi provided his course material: https://muhark.github.io/dpir-intro-python/index.html_
+<sub>_Syallbus references and credits are due to Musashi Harukawa (Postdoc Princeton) - some aspects of this course are inspired by his Intro to Python course at the Department of Politics and International Relations at Oxford in 2020. Here is the course website where Musashi provided his course material: https://muhark.github.io/dpir-intro-python/index.html_<sup>
 
